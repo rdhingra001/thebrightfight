@@ -1,0 +1,1 @@
+Run this in this folder terminal to test game on localhost server: "python -m http.server 80"
